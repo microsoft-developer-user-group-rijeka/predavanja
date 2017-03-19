@@ -4,4 +4,4 @@ Ovaj repozitorij sadrži prezentacije i ostale materijale s predavanja održanih
 
 Predavanja su poredana po datumu održavanja, od najnovijih prema starijima. Datum održavanja i imena predavača navedena su u uglatim zagradama.
 
-- [Cool Arduino projekti [Kristian Dekarin, Tomislav Teskač; 09.02.2017]](2017.02.09 Cool Arduino projekti)
+- [Cool Arduino projekti [Kristian Dekarin, Tomislav Teskač; 09.02.2017]](2017.02.09%20Cool%20Arduino%20projekti)

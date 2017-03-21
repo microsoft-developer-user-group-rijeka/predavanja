@@ -1,0 +1,8 @@
+framework: net461
+source https://api.nuget.org/v3/index.json
+cache ./nupkgs versions:current
+
+nuget FsReveal
+nuget FAKE
+nuget Suave
+nuget Newtonsoft.Json ~> 9.0

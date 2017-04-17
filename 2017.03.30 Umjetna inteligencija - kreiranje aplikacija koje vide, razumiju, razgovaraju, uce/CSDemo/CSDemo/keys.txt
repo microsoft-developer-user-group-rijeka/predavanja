@@ -1,0 +1,5 @@
+﻿// Keys are available at https://www.microsoft.com/cognitive-services/en-us/subscriptions. Once obtained enter it here.
+VISION_KEY=
+EMOTION_KEY=
+BING_SPELL_CHECK_KEY=
+BING_SEARCH_KEY=

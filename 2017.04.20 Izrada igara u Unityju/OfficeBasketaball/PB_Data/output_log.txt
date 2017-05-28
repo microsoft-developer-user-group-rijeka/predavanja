@@ -1,0 +1,53 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6770M (ID=0x6740)
+    Vendor:   ATI
+    VRAM:     5471 MB
+    Driver:   8.812.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.131 seconds
+Platform assembly: C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Igor\Desktop\devug unity\OfficeBasketaball\PB_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 60Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.002367 ms
+Scena je 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.297773 ms
+Scena je 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 0.239473 ms (FindLiveObjects: 0.035350 ms CreateObjectMapping: 0.032309 ms MarkObjects: 0.166871 ms  DeleteObjects: 0.003801 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.520759 ms
+Scena je 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 0.265701 ms (FindLiveObjects: 0.039532 ms CreateObjectMapping: 0.026228 ms MarkObjects: 0.194999 ms  DeleteObjects: 0.004181 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1f14 -> priority: 1 
+  Thread -> id: 3618 -> priority: 1 

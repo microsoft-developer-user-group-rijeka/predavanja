@@ -1,0 +1,47 @@
+Mono path[0] = 'C:/Users/Igor/Desktop/devug unity/matches/MAtches_Data/Managed'
+Mono path[1] = 'C:/Users/Igor/Desktop/devug unity/matches/MAtches_Data/Mono'
+Mono config path = 'C:/Users/Igor/Desktop/devug unity/matches/MAtches_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Igor/Desktop/devug unity/matches/MAtches_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55195
+Multi-casting "[IP] 192.168.2.101 [Port] 55195 [Flags] 2 [Guid] 4076958419 [EditorId] 2606374555 [Version] 1048832 [Id] WindowsPlayer(MyMac) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55195]
+PlayerConnection already initialized - listening to [0.0.0.0:55195]
+Player data archive not found at `C:/Users/Igor/Desktop/devug unity/matches/MAtches_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6770M (ID=0x6740)
+    Vendor:   ATI
+    VRAM:     2290 MB
+    Driver:   8.812.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\Facebook.Unity.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\Facebook.Unity.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\Facebook.Unity.Arcade.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\Facebook.Unity.Arcade.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\Facebook.Unity.Settings.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\Facebook.Unity.Settings.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\FacebookNamedPipeClient.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\FacebookNamedPipeClient.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.146 seconds
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Igor\Desktop\devug unity\matches\MAtches_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 2560x1440 60Hz; virtual: 2560x1440 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.165524 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2f7c -> priority: 1 
+  Thread -> id: 352c -> priority: 1 

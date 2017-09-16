@@ -9,7 +9,7 @@ Predavanja su poredana po datumu održavanja, od najnovijih prema starijima. Dat
 - [Cool Arduino projekti [Kristian Dekarin, Tomislav Teskač; 09.02.2017]](2017.02.09%20Cool%20Arduino%20projekti)
 - [F# Predavanje [Kornelije Sajler; 27.10.2016]](2016.10.27%20F%23%20Predavanje)
 
-## Kako dodati novo predavanje u repozitorij
+# Kako dodati novo predavanje u repozitorij
 
 Postupak dodavanja novog predavanja trenutno zahtjeva nekoliko "ručno" izvedenih koraka.
 
@@ -23,3 +23,8 @@ Postupak dodavanja novog predavanja trenutno zahtjeva nekoliko "ručno" izvedeni
 3. Podignite izmjene u vašoj inačici repozitorija na GitHub i zatražite povlačenje izmjena (eng. Pull Request).
 
 Ukoliko niste vični radu s Gitom i GitHubom pošaljite jednostavno Vašu prezentaciju i popratne materijale Igoru koji će onda rado odraditi gore navedene korake za Vas.
+
+
+# Licenca
+
+Ukoliko nije izričito drugačije naznačeno, sav izvorni kod unutar pojedinih predavanja licenciran je pod [MIT licencom](LICENSE.txt). Ukoliko nije izričito drugačije naznačeno, sve prezentacije licencirane su pod [Creative Commons CC BY 4.0 licencom](https://creativecommons.org/licenses/by/4.0/).

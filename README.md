@@ -15,12 +15,11 @@ Postupak dodavanja novog predavanja trenutno zahtjeva nekoliko "ručno" izvedeni
 
 1. Napravite vlastitu inačicu ovog repozitorija (eng. Fork).
 2. Dodajte u nju Vašu prezentaciju na sljedeći način:
-  * Pogledajte točan naziv predavanja i datum održavanja na stranicama [Microsoft Communityja](http://www.mscommunity.hr). Npr: [Umjetna inteligencija - kreiranje aplikacija koje vide, razumiju, razgovaraju, uče...](http://www.mscommunity.hr/event/umjetna-inteligencija-kreiranje-aplikacija/2477#.WOLIklWLQuU)
-  * Napravite novu mapu imena sastavljenoga od datuma i naziva predavanja bez "naših slova" i nekih posebnih znakova poput točke. Npr: "2017.03.30 Umjetna inteligencija - kreiranje aplikacija koje vide, razumiju, razgovaraju, uce"
-  * U mapu stavite prezentaciju i popratne sadržaje poput izvornog koda. Ukoliko je vaša prezentacija sastavljena od samo jedne datoteke (npr. PDF, MD, PPT, PPTX, itd.), nazovite ju tako da sadrži naziv predavanja te imena predavača i datum predavanja u uglatim zagradama. Npr: "Umjetna inteligencija - kreiranje aplikacija koje vide, razumiju, razgovaraju, uce [Berislav Nizic; 30.03.2017].pdf".
+  * Pogledajte točan naziv predavanja i datum održavanja na stranicama [Microsoft Developer User Group Rijeka](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/). Npr: [Umjetna inteligencija - kreiranje aplikacija koje vide, razumiju, razgovaraju...](https://www.meetup.com/Microsoft-Developer-User-Group-Rijeka/events/238525419/)
+  * Napravite novu mapu imena sastavljenoga od datuma i naziva predavanja bez "naših slova" i nekih posebnih znakova poput točke. Npr: "2017.03.30 Umjetna inteligencija - kreiranje aplikacija koje vide, razumiju, razgovaraju"
+  * U mapu stavite prezentaciju i popratne sadržaje poput izvornog koda. Ukoliko je vaša prezentacija sastavljena od samo jedne datoteke (npr. PDF, MD, PPT, PPTX, itd.), nazovite ju tako da sadrži naziv predavanja te imena predavača i datum predavanja u uglatim zagradama. Npr: "Umjetna inteligencija - kreiranje aplikacija koje vide, razumiju, razgovaraju [Berislav Nizic; 30.03.2017].pdf".
   * U mapu stavite README.md datoteku. Kopirajte jednostavno jednu od postojećih README.md datoteka (npr. [ovu](2017.02.09%20Cool%20Arduino%20projekti/README.md)) i promijenite podatke.
   * Promijenite ovu README.md datoteku koju upravo čitate tako da u gornji popis predavanja dodate predavanje koristeći opisanu konvenciju.
 3. Podignite izmjene u vašoj inačici repozitorija na GitHub i zatražite povlačenje izmjena (eng. Pull Request).
 
 Ukoliko niste vični radu s Gitom i GitHubom pošaljite jednostavno Vašu prezentaciju i popratne materijale Igoru koji će onda rado odraditi gore navedene korake za Vas.
-

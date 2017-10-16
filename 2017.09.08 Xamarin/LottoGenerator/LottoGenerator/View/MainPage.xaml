@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LottoGenerator"
+             x:Class="LottoGenerator.View.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Text="{Binding MvvmString}" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+        <Entry Text="{Binding MvvmString, Mode=TwoWay}"
+           Grid.Row="1"/>
+        <Button Text="PRESS MEEEE!!"
+            Command="{Binding PressButtonCommand}"
+            Grid.Row="2"/>
+    </Grid>
+</ContentPage>

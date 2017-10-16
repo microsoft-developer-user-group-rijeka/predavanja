@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LottoGenerator.View.TruthSeekingPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Text="Tell me your lucky number, punk:" />
+        <Label Grid.Row="1" 
+                   Text="{Binding Forecast}" />
+        <Entry Grid.Row="2"/>
+        <Button Text="Tell me my fortune" 
+                    Command="{Binding ForecastCommand}"
+                    Grid.Row="3"/>
+    </Grid>
+</ContentPage>

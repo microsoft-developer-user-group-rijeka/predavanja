@@ -1,7 +1,7 @@
-# Izrada cross-platform mobilnih aplikacija - Xamarin! 
+# Izrada cross-platform mobilnih aplikacija - Xamarin!
 
 ## Predavač
-Goran Karacic
+Goran Karačić
 
 ## O predavanju
 Kako napraviti kvalitetne aplikacije za različite mobilne platforme uz što manje utrošenog vremena i na pametan i učinkovit način?

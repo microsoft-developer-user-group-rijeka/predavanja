@@ -4,6 +4,7 @@ Ovaj repozitorij sadrži prezentacije i ostale materijale s predavanja održanih
 
 Predavanja su poredana po datumu održavanja, od najnovijih prema starijima. Datum održavanja i imena predavača navedena su u uglatim zagradama.
 
+- [Xamarin DevDay Rijeka [Goran Karačić, Tino Petrina, Toni Petrina; 11.11.2017]](2017.11.11%20Xamarin%20DevDay%20Rijeka)
 - [ASP.NET Core JavaScript Services - mala škola kuhanja :-) [Dobriša Adamec; 19.10.2017]](2017.10.19%20ASP.NET%20Core%20JavaScript%20Services%20-%20mala%20skola%20kuhanja)
 - [Izrada cross-platform mobilnih aplikacija - Xamarin! [Goran Karačić; 08.09.2017]](2017.09.08%20Izrada%20cross-platform%20mobilnih%20aplikacija%20-%20Xamarin)
 - [Izrada igara u Unityju [Slaven Vujnović; 20.04.2017]](2017.04.20%20Izrada%20igara%20u%20Unityju)

@@ -7,6 +7,7 @@ Predavanja su poredana po datumu održavanja, od najnovijih prema starijima. Dat
 - [Xamarin DevDay Rijeka [Goran Karačić, Tino Petrina, Toni Petrina; 11.11.2017]](2017.11.11%20Xamarin%20DevDay%20Rijeka)
 - [ASP.NET Core JavaScript Services - mala škola kuhanja :-) [Dobriša Adamec; 19.10.2017]](2017.10.19%20ASP.NET%20Core%20JavaScript%20Services%20-%20mala%20skola%20kuhanja)
 - [Izrada cross-platform mobilnih aplikacija - Xamarin! [Goran Karačić; 08.09.2017]](2017.09.08%20Izrada%20cross-platform%20mobilnih%20aplikacija%20-%20Xamarin)
+- [Supermoći i kompajler [Igor Rončević; 30.05.2017]](2017.05.30%20Supermoci%20i%20kompajler)
 - [Izrada igara u Unityju [Slaven Vujnović; 20.04.2017]](2017.04.20%20Izrada%20igara%20u%20Unityju)
 - [Umjetna inteligencija - kreiranje aplikacija koje vidu, razumiju, razgovaraju, uče [Berislav Nižić; 30.3.2017]](2017.03.30%20Umjetna%20inteligencija%20-%20kreiranje%20aplikacija%20koje%20vide%2C%20razumiju%2C%20razgovaraju%2C%20uce)
 - [Cool Arduino projekti [Kristian Dekarin, Tomislav Teskač; 09.02.2017]](2017.02.09%20Cool%20Arduino%20projekti)

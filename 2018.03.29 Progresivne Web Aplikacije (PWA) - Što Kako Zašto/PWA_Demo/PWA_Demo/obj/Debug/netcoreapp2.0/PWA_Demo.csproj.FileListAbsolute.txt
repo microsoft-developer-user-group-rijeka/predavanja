@@ -1,0 +1,10 @@
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\bin\Debug\netcoreapp2.0\PWA_Demo.deps.json
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\bin\Debug\netcoreapp2.0\PWA_Demo.runtimeconfig.json
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\bin\Debug\netcoreapp2.0\PWA_Demo.runtimeconfig.dev.json
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\bin\Debug\netcoreapp2.0\PWA_Demo.dll
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\bin\Debug\netcoreapp2.0\PWA_Demo.pdb
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\obj\Debug\netcoreapp2.0\PWA_Demo.csproj.CoreCompileInputs.cache
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\obj\Debug\netcoreapp2.0\PWA_Demo.AssemblyInfoInputs.cache
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\obj\Debug\netcoreapp2.0\PWA_Demo.AssemblyInfo.cs
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\obj\Debug\netcoreapp2.0\PWA_Demo.dll
+c:\users\andrej.matijevic\documents\visual studio 2017\Projects\PWA_Demo\PWA_Demo\obj\Debug\netcoreapp2.0\PWA_Demo.pdb

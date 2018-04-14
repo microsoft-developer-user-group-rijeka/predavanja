@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Mala Spajza</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="The home page of my website" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/content/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/content/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/content/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/content/images/safari-pinned-tab.svg" color="#fb0000">
+    <link rel="shortcut icon" href="/content/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#e8e8e8">
+    <meta name="msapplication-config" content="/browserconfig.xml">
+    <meta name="theme-color" content="#eaeaea">
+
+    <link rel="stylesheet" href="content/css/site.css" />
+</head>
+<body>
+    <div id="malaSpajza">
+        <header class="header">
+            <h1 class="header__title">{{appName}}</h1>
+            <button id="butRefresh" v-on:click="refreshPage" class="headerButton" aria-label="Refresh"></button>
+        </header>
+
+        <main class="main">
+            <div v-for="recipe in recipes" class="card recipe">
+                <img v-bind:src="recipe.image" />
+                <content>
+                    <h2>{{recipe.name}}</h2>
+                    <div>
+                        {{recipe.text}}
+                    </div>
+                </content>
+                <div class="controls"></div>
+            </div>
+        </main>
+    </div>
+
+    <script type="text/javascript" src="content/js/vue.js"></script>
+    <script type="text/javascript" src="content/js/axios.min.js"></script>
+    <script src="/content/js/site.js"></script>
+</body>
+</html>

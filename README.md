@@ -4,6 +4,7 @@ Ovaj repozitorij sadrži prezentacije i ostale materijale s predavanja održanih
 
 Predavanja su poredana po datumu održavanja, od najnovijih prema starijima. Datum održavanja i imena predavača navedena su u uglatim zagradama.
 
+- [React Native [Tin Crnković; 27.04.2018]](2018.04.27%20React%20Native)
 - [Progresivne Web Aplikacije (PWA) Što Kako Zašto [Andrej Matijević; 29.03.2018]](2018.03.29%20Progresivne%20Web%20Aplikacije%20(PWA)%20-%20%C5%A0to%20Kako%20Za%C5%A1to)
 - [Agilni razvoj softverskih projekata [Dubravko Bogović; 16.02.2018]](2018.02.16%20Agilni%20razvoj%20softverskih%20projekata)
 - [Xamarin DevDay Rijeka [Goran Karačić, Tino Petrina, Toni Petrina; 11.11.2017]](2017.11.11%20Xamarin%20DevDay%20Rijeka)
